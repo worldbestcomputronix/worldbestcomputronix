@@ -57,13 +57,10 @@
 
 ## Education
 
-- 📖 **Master's Of Computer Application (MCA)**\
-📆 Sep 2024 - 2026\
-📍 **Dr. B.C. Roy Engineering College** - Durgapur, India
+- 📖 **BA**\
+📆 Aug 2017 - 2021\
+📍 ** DU College** - DELHI, India
 
-- 📖 **Bachelor's Of Computer Application (BCA)**\
-📆 Aug 2021 - Aug 2024\
-📍 **Raniganj Institute Of Information Technology (RiiT)** - Raniganj, India
 
 ## Experience
 
@@ -84,8 +81,8 @@
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Software Engineer**\
-📆 Aug 2019 - Present\
-📍 **Skill Course** - Mumbai, India
+📆 Aug 2017 - Present\
+📍 **Skill Course** - Delhi, India
 ##
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
@@ -94,7 +91,7 @@
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
 - 👨‍💻 **Software Engineer & Web Developer**\
-📆 2019 - Present\
+📆 2017 - Present\
 📍 **Freelancing** - Online
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
@@ -134,7 +131,7 @@
 | Name                 | A short summary                              | Stars   | Framework |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [Movie Recommendation System](https://github.com/saddamskst/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
-| [xamarin-sample-gallery](https://github.com/alexandresanlim/xamarin-sample-gallery) | A list of small apps on Xamarin.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/xamarin-sample-gallery) | ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white) |
+
 
 
 </details>
@@ -151,7 +148,7 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saddamskst&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="#" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamskst&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
