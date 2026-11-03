@@ -1,153 +1,91 @@
-# 👋 Hi, I'm Rajesh
+<div align="center">
 
-<h3 align="center">
-  Digital Creator | IT Professional | Technology Enthusiast
-</h3>
+<img src="https://raw.githubusercontent.com/worldbestcomputronix/worldbestcomputronix/main/assets/cyberpunk-banner.svg" width="100%" alt="Cyberpunk digital creator banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Technology+%26+Innovation;IT+Solutions+%26+Computer+Expert;Creating+Digital+Experiences" alt="Typing SVG" />
-</p>
+# RAJESH | DIGITAL CREATOR & IT PROFESSIONAL
 
-<p align="center">
-  <a href="https://www.worldbestcomputronix.com">
-    <img src="https://img.shields.io/badge/Business-World%20Best%20Computronix-0078D4?style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/rdigitalcreator/">
-    <img src="https://img.shields.io/badge/Instagram-@RDIGITALCREATOR-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+### `@RDIGITALCREATOR` · World Best Computronix
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40RDIGITALCREATOR-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rdigitalcreator/)
+[![YouTube](https://img.shields.io/badge/YouTube-World%20Best%20Computronix-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@WorldBestComputronix)
+[![Website](https://img.shields.io/badge/Website-worldbestcomputronix.com-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.worldbestcomputronix.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Rajesh**, an IT professional and digital creator from India.
+I'm Rajesh, an IT professional and digital creator from India. I explore technology, computer hardware, AI tools, web platforms, and digital storytelling.
 
-I am passionate about technology, computers, digital innovation, and creating useful content that makes technology easier for everyone.
+**My mission:** Make technology simple, useful, and accessible.
 
-I focus on:
+## ⚡ What I Do
 
-- 💻 Desktop & Laptop Repair and Troubleshooting
-- 🖥️ Computer Hardware & Software Solutions
-- ⚙️ Windows Installation & System Optimization
-- 🤖 Artificial Intelligence & AI-powered Tools
-- 🌐 Website Development & Digital Platforms
-- 🎨 Graphic Design & Digital Content Creation
-- 📱 Social Media & Technology Education
+- 💻 Desktop & laptop repair, upgrades, and troubleshooting
+- 🖥️ PC hardware: CPU, GPU, RAM, SSD, and HDD
+- 🪟 Windows installation, optimization, and support
+- 🤖 AI tools, image/video generation, and automation
+- 🌐 Websites, web technologies, and digital platforms
+- 🎬 Technology education and digital content creation
 
-My mission is simple: **Make Technology Simple, Accessible, and Powerful.**
+## 🏢 World Best Computronix
 
----
+IT services and computer solutions.
 
-## 🏢 My Business
+- Desktop computer repair
+- Laptop repair and maintenance
+- Desktop & laptop accessories
+- PC troubleshooting
+- Windows installation and optimization
 
-### World Best Computronix
+🌐 [worldbestcomputronix.com](https://www.worldbestcomputronix.com) · [worldbestcomputronix.in](https://www.worldbestcomputronix.in)
 
-Professional computer and IT solutions.
-
-🌐 Website: https://www.worldbestcomputronix.com
-
-🌐 Website: https://www.worldbestcomputronix.in
-
-**Our Services:**
-- Desktop Computer Repair
-- Laptop Repair & Maintenance
-- Computer Accessories
-- Hardware & Software Troubleshooting
-- Windows Installation
-- PC Performance Optimization
-
----
-
-## 🛠️ Technologies & Tools
-
-### Programming & Web Technologies
+## 🧰 Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,nextjs,bootstrap,wordpress&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,wordpress,git,github,vscode,windows,linux&perline=7" alt="Technology icons" />
 </p>
 
-### AI & Creative Tools
+## 🔭 Currently Exploring
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,pr,ae&perline=10" />
-</p>
+- Generative AI and AI-assisted creative workflows
+- AI image and video production
+- Automation and productivity tools
+- PC hardware, storage, and performance
+- Web development and digital publishing
 
-### Operating Systems & Development Tools
+## 📈 GitHub Overview
 
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,git,github,vscode&perline=10" />
-</p>
+<div align="center">
 
-### Computer Hardware & IT
+<img src="https://github-readme-stats.vercel.app/api?username=worldbestcomputronix&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worldbestcomputronix&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 
-- PC Building & Upgrades
-- CPU, GPU, RAM & Storage
-- SSD vs HDD Technology
-- Windows & Linux Troubleshooting
-- Computer Maintenance
-- Networking Fundamentals
+<img src="https://streak-stats.demolab.com?user=worldbestcomputronix&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/worldbestcomputronix/worldbestcomputronix/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+</div>
+
+## 🤝 Connect
+
+- Instagram: [@RDIGITALCREATOR](https://www.instagram.com/rdigitalcreator/)
+- YouTube: [World Best Computronix](https://www.youtube.com/@WorldBestComputronix)
+- Website: [worldbestcomputronix.com](https://www.worldbestcomputronix.com)
 
 ---
 
-## 🎯 What I'm Currently Exploring
+<div align="center">
 
-- Artificial Intelligence & Generative AI
-- AI Image and Video Generation
-- Automation & Productivity Tools
-- Web Technologies
-- Computer Hardware & Performance
-- Digital Content Creation
-- Technology Education
+### 💡 LEARN · BUILD · INNOVATE · INSPIRE
 
----
+*Thanks for visiting my profile. Keep creating!*
 
-## 📺 Content Creation
-
-I create digital content focused on technology, creativity, education, and innovation.
-
-<p align="center">
-  <a href="https://www.instagram.com/rdigitalcreator/">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@WorldBestComputronix">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/rdigitalcreator/">
-    <img src="https://img.shields.io/badge/Instagram-@RDIGITALCREATOR-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@WorldBestComputronix">
-    <img src="https://img.shields.io/badge/YouTube-World%20Best%20Computronix-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.worldbestcomputronix.com">
-    <img src="https://img.shields.io/badge/Website-Visit%20Now-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>💡 Learn. Build. Innovate. Inspire.</b>
-  <br/>
-  Thanks for visiting my GitHub profile! 🚀
-</p>
+</div>
