@@ -1,170 +1,153 @@
+# 👋 Hi, I'm Rajesh
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+RAJESH!;" />
-</h1>
-
-
-<h3 align="center"><i>Passionate</i> <b>Software Engineer</b> <i>&<i> <b>Content Creator</b>
+<h3 align="center">
+  Digital Creator | IT Professional | Technology Enthusiast
 </h3>
 
----
-###
 <p align="center">
-  <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,php,idea,figma,nodejs,nextjs,mysql,dotnet&theme=light&perline=10" />
-  </a>
-</br>
-  <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=django,flask,firebase,flutter,r,postgres,wordpress,tailwind &theme=light&perline=8" />
-  </a>
-  </br>
-  <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=ps,pr,ai,au,ae,notion" />
-  </a>
-
-
-<!-- </p>
-
-<p align="center">
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Technology+%26+Innovation;IT+Solutions+%26+Computer+Expert;Creating+Digital+Experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://skst.in">
-    <img src="https://skillicons.dev/icons?i=au,ps,pr,ai,notion,obsidian,ae" />
+  <a href="https://www.worldbestcomputronix.com">
+    <img src="https://img.shields.io/badge/Business-World%20Best%20Computronix-0078D4?style=for-the-badge" />
   </a>
-</p> -->
+  <a href="https://www.instagram.com/rdigitalcreator/">
+    <img src="https://img.shields.io/badge/Instagram-@RDIGITALCREATOR-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-###
 ---
-<!-- <h3 align="left">👩‍💻  About Me</h3> -->
 
-###
+## 🚀 About Me
 
-<h3 align="center"> <b>I'm Rajesh. I live in India, where I build the future.</b></h3>
+Hello! I'm **Rajesh**, an IT professional and digital creator from India.
 
+I am passionate about technology, computers, digital innovation, and creating useful content that makes technology easier for everyone.
 
-<p align="center">I am a self-driven, career-oriented software developer specializing in front-end development and open-source, currently pursuing a bachelors degree in computer science. My expertise lies in building interactive web applications on the client side. Primarily working with technologies like JavaScript, Next.js, TypeScript and Python.<br><br>I strongly believe in continuous learning and improving myself, so I try my best to learn in any situation possible, unfavorable or not.<br><br>In addition to my front-end development skills, I'm also a skilled content creator and graphic designer. I have experience writing blog posts, articles, and social media content. I'm also proficient in using Adobe Photoshop and Illustrator to create graphics and logos.<br><br>I'm currently looking for opportunities to use my skills to make a positive impact on the world. I'm interested in working on projects that are related to education, social justice, and environmental sustainability.</p>
+I focus on:
 
-###
+- 💻 Desktop & Laptop Repair and Troubleshooting
+- 🖥️ Computer Hardware & Software Solutions
+- ⚙️ Windows Installation & System Optimization
+- 🤖 Artificial Intelligence & AI-powered Tools
+- 🌐 Website Development & Digital Platforms
+- 🎨 Graphic Design & Digital Content Creation
+- 📱 Social Media & Technology Education
 
+My mission is simple: **Make Technology Simple, Accessible, and Powerful.**
 
+---
 
+## 🏢 My Business
 
-<details>
-  <summary>📃 Resume</summary>
+### World Best Computronix
 
+Professional computer and IT solutions.
 
-## Education
+🌐 Website: https://www.worldbestcomputronix.com
 
-- 📖 **BA**\
-📆 Aug 2017 - 2021\
-📍 ** DU College** - DELHI, India
+🌐 Website: https://www.worldbestcomputronix.in
 
+**Our Services:**
+- Desktop Computer Repair
+- Laptop Repair & Maintenance
+- Computer Accessories
+- Hardware & Software Troubleshooting
+- Windows Installation
+- PC Performance Optimization
 
-## Experience
+---
 
+## 🛠️ Technologies & Tools
 
-<img align="right" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-
-
-- 👨‍💻 **Content Creator**\
-📆 Jul 2024 - Present\
-📍 **Youtube**  - Online
-##
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
-- 👨‍💻 **Software Engineer**\
-📆 Aug 2017 - Present\
-📍 **Skill Course** - Delhi, India
-##
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-
-- 👨‍💻 **Software Engineer & Web Developer**\
-📆 2017 - Present\
-📍 **Freelancing** - Online
-
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-
-
-
-## Skills
-
-
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
-
-**Programming**
-
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
-
-</details>
-
-<details>
-  <summary>📱 Mobile</summary>
-  
-
-| Name                 | A short summary                              | Stars   | Framework |
-| -------------------- | -------------------------------------------- | --------- | --------- |
-| [Movie Recommendation System](https://github.com/saddamskst/flutter-todo-list-chat-gpt) | ToDo list generator using Chat GPT.  | ![GitHub Repo stars](https://img.shields.io/github/stars/alexandresanlim/flutter-todo-list-chat-gpt) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
-
-
-
-</details>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
-</picture>
-
-
-📈 **My GitHub Stats:**
+### Programming & Web Technologies
 
 <p>
-  <img height="180em" src="#" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saddamskst&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,nextjs,bootstrap,wordpress&perline=10" />
 </p>
 
+### AI & Creative Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,pr,ae&perline=10" />
+</p>
 
-###
+### Operating Systems & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,git,github,vscode&perline=10" />
+</p>
+
+### Computer Hardware & IT
+
+- PC Building & Upgrades
+- CPU, GPU, RAM & Storage
+- SSD vs HDD Technology
+- Windows & Linux Troubleshooting
+- Computer Maintenance
+- Networking Fundamentals
 
 ---
 
-<div>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.youtube.com/@WORLDBESTCOMPUTRONIX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Rajesh" height="30" width="40" /></a>
-<a href="https://instagram.com/WORLDBESTCOMPUTRONIX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Md Saddam" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/WORLDBESTCOMPUTRONIX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rajesh" height="30" width="40" /></a>
+## 🎯 What I'm Currently Exploring
 
+- Artificial Intelligence & Generative AI
+- AI Image and Video Generation
+- Automation & Productivity Tools
+- Web Technologies
+- Computer Hardware & Performance
+- Digital Content Creation
+- Technology Education
+
+---
+
+## 📺 Content Creation
+
+I create digital content focused on technology, creativity, education, and innovation.
+
+<p align="center">
+  <a href="https://www.instagram.com/rdigitalcreator/">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@WorldBestComputronix">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
-</div>
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/rdigitalcreator/">
+    <img src="https://img.shields.io/badge/Instagram-@RDIGITALCREATOR-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@WorldBestComputronix">
+    <img src="https://img.shields.io/badge/YouTube-World%20Best%20Computronix-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.worldbestcomputronix.com">
+    <img src="https://img.shields.io/badge/Website-Visit%20Now-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Learn. Build. Innovate. Inspire.</b>
+  <br/>
+  Thanks for visiting my GitHub profile! 🚀
+</p>
