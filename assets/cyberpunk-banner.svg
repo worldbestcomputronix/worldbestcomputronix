@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Cyberpunk Digital Creator</title><desc id="desc">An original neon blue and purple cyberpunk workspace with a digital creator identity.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#10102b"/><stop offset="1" stop-color="#210b3d"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00e5ff"/><stop offset="1" stop-color="#b44cff"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<g stroke="#174d77" stroke-width="1" opacity=".45"><path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/></g>
+<path d="M0 245L220 170 390 220 590 105 790 190 1000 75 1200 135" fill="none" stroke="url(#neon)" stroke-width="3" opacity=".55" filter="url(#glow)"/>
+<g fill="none" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"><path d="M850 70h210v130H850z"/><path d="M875 95h160M875 120h110M875 145h140M875 170h85"/><circle cx="1090" cy="100" r="28"/><path d="M1078 100l9 9 17-21"/></g>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle"><text x="455" y="112" fill="#f4f7ff" font-size="43" font-weight="700" letter-spacing="4">RAJESH</text><text x="455" y="158" fill="#00e5ff" font-size="25" font-weight="700" letter-spacing="5">DIGITAL CREATOR</text><text x="455" y="195" fill="#c7b5ff" font-size="17" letter-spacing="3">@RDIGITALCREATOR</text><text x="455" y="235" fill="#a6b5d8" font-size="14" letter-spacing="2">TECH • AI • COMPUTING • CREATIVITY</text></g>
+<g fill="#00e5ff"><circle cx="80" cy="55" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle><circle cx="760" cy="250" r="3"><animate attributeName="opacity" values="1;.2;1" dur="1.7s" repeatCount="indefinite"/></circle></g>
+<rect x="8" y="8" width="1184" height="284" rx="12" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".8"/>
+</svg>
